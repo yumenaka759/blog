@@ -31,7 +31,7 @@ if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
 return [
     'site' => [
         'name' => 'yumenaka blog',
-        'description' => '',
+        'description' => '個人のささやかなテキストブログ。',
         'url' => $siteUrl,
         'base_path' => $basePath,
         'language' => 'ja',
