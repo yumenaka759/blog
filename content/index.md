@@ -1,5 +1,5 @@
 ---
-title: ちいさなウェブサイト
+title: ゆめなか通信
 date: 2026-11-01
 description: Markdownで更新する小さなWebサイトです。
 draft: false
@@ -7,7 +7,7 @@ published: 2026-11-01T04:34:40Z
 tomos_github_document_id: bb610df6-4419-4d68-868e-9405e1e390ae
 ---
 
-# ちいさなウェブサイト
+# ゆめなか通信
 
 Small websiteという文字に惹かれて、Tomosでサイトを作りました。
 
